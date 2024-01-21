@@ -33,10 +33,20 @@
         background-color: #29435C;
         border-radius: 10px;
 
-        .label {
-            font-size: 18px;
+        div.label {
+            font-size: 16px;
             white-space: nowrap;
             text-align: center;
+        }
+
+        input.label {
+            text-align: center;
+            background-color: transparent;
+            border: none;
+            outline: none;
+            margin-top: 5px;
+            border-bottom: 1px solid white;
+            width: 100%;
         }
 
         .column {
