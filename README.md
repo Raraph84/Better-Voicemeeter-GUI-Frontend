@@ -8,9 +8,17 @@ A ReactJS-based frontend for the [Better Voicemeeter GUI](https://github.com/Rar
 
 Contributions are welcome! If you would like to contribute, please create a pull request.
 
+## Build
+
+See the [main repo](https://github.com/Raraph84/Better-Voicemeeter-GUI-App) for the overall project build.
+
 ## Roadmap
 
 See the [main repo](https://github.com/Raraph84/Better-Voicemeeter-GUI-App) for the overall project roadmap.
+
+## Contributions
+
+Contributions are welcome! If you would like to contribute, please create a pull request.
 
 ## License
 
